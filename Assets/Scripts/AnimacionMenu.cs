@@ -13,7 +13,7 @@ public class AnimacionMenu : MonoBehaviour
     }
 
     // Update is called once per frame
-    void OnEnabled()
+    void Scale()
     {
         
     }
