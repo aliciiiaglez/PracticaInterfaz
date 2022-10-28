@@ -9,6 +9,17 @@ public class ChangeLanguage : MonoBehaviour
     
 {
     int idiomaActual = 0;
+   
+    void SelectCurrentLang()
+    {
+        UnityEngine.Localization.Locale searcher = LocalizationSettings.AvailableLocales.Locales[idiomaActual];
+
+        while (searcher != LocalizationSettings.SelectedLocale && idiomaActual < LocalizationSettings.AvailableLocales.Locales.Count) ;
+        {
+            idiomaActual++;
+            searcher = LocalizationSettings.AvailableLocales.Locales[idiomaActual];
+        }
+    }
     void Awake()
     {
         //Array con los diferentes idiomas que tiene el juego
@@ -20,8 +31,7 @@ public class ChangeLanguage : MonoBehaviour
 
         //Total de idiomas disponibles
         //Códigos de prueba
-        
-        
+                
         
         int langAvailables = LocalizationSettings.AvailableLocales.Locales.Count;
     }

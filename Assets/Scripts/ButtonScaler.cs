@@ -7,7 +7,7 @@ public class ButtonScaler : MonoBehaviour
     // Start is called before the first frame update
     public void ScaleUp()
     {
-        LeanTween.scale(gameObject, Vector3.one * 1.3f, 0.5f).setEaseInBounce();
+        LeanTween.scale(gameObject, Vector3.one * 4f, 0.5f).setEaseInBounce();
 
     }
 
