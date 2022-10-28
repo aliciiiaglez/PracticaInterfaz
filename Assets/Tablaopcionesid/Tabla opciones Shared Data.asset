@@ -16,7 +16,19 @@ MonoBehaviour:
   m_TableCollectionNameGuidString: 0ab423cb536cba84c829669937228138
   m_Entries:
   - m_Id: 23078694912
-    m_Key: New Entry
+    m_Key: Textplay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9361323257856
+    m_Key: Textcontinue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9637774028800
+    m_Key: Textoptions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9992507289600
+    m_Key: Textexit
     m_Metadata:
       m_Items: []
   m_Metadata:
