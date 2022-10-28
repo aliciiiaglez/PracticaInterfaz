@@ -29,6 +29,6 @@ public class IntroAnimación : MonoBehaviour
         gameObject.SetActive(false);
         //Activar el menú principal...
     }
-
+    //On disable pa que deje de aparecer
 }
 

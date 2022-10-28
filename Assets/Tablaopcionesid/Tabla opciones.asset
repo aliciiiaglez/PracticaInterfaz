@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: Tabla opciones
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 0ab423cb536cba84c829669937228138, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 16a0f980e279c224ab29c8fa3a88d885, type: 2}
+  - {fileID: 11400000, guid: e3aaa9ef4f3e67b449f1d108fb06cfc7, type: 2}
+  - {fileID: 11400000, guid: 3b587519e7705fc418e8fc8c74c4bd86, type: 2}
+  - {fileID: 11400000, guid: 27d72742a0a2852408757b2a11520eed, type: 2}
+  - {fileID: 11400000, guid: 61e8d3d664646bf4ca7210f0ad7d0f0d, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

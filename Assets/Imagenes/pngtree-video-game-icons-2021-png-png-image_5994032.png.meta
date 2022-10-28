@@ -51,6 +51,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -328,6 +329,16 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      pngtree-video-game-icons-2021-png-png-image_5994032_6: 6584278974776524772
+      pngtree-video-game-icons-2021-png-png-image_5994032_0: 5917597481365430062
+      pngtree-video-game-icons-2021-png-png-image_5994032_5: -8746952051087926083
+      pngtree-video-game-icons-2021-png-png-image_5994032_2: -5460497350163153296
+      pngtree-video-game-icons-2021-png-png-image_5994032_3: -3070804285840746865
+      pngtree-video-game-icons-2021-png-png-image_5994032_1: 1273347817049565033
+      pngtree-video-game-icons-2021-png-png-image_5994032_4: -4527233085156271071
+      pngtree-video-game-icons-2021-png-png-image_5994032_7: 5085938884006926957
+      pngtree-video-game-icons-2021-png-png-image_5994032_8: -9069978588603173786
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
